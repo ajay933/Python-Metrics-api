@@ -1,0 +1,4 @@
+Flask
+prometheus-client
+werkzeug
+gunicorn  # Optional, for production server
